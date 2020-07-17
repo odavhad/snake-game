@@ -7,7 +7,7 @@ A snake game in Python
    https://github.com/odavhad/snake-game.git
    ```
 2. Navigate to the repository directory using your terminal/ command prompt
-3. Run the following commands
+3. Run the following commands \
    For macOS/ Linux
    ``` bash
    python3 -m venv venv
@@ -24,4 +24,3 @@ A snake game in Python
    ``` bash
    python game.py
    ```
-   
