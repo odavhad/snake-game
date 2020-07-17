@@ -4,7 +4,7 @@ A snake game in Python
 ## Setup
 1. To get started, clone the repository using:  
    ``` bash
-   https://github.com/odavhad/snake-game.git
+   git clone https://github.com/odavhad/snake-game.git
    ```
 2. Navigate to the repository directory using your terminal/ command prompt
 3. Run the following commands \
